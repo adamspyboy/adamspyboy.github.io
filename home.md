@@ -1,8 +1,4 @@
----
-title: "Spyboy"
----
-
-<img src="spyboy.png" alt="Spyboy" style="width: 250px; margin: 120px 0;" />
+<p style="text-align: center;"><img src="spyboy.png" alt="Spyboy" style="width: 250px; margin: 50px 0;" /></p>
 
 # Adam.Spyboy
 
